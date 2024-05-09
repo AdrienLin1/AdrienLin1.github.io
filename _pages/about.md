@@ -16,11 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-👋Hello! I am currently a second-year M.Sc. student at University of Chinese Academy of Sciences (UCAS),and doing my research at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, supervised by Prof. Yunduan Cui.
+👋Hello! I am currently a second-year M.Sc. student at [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/)(UCAS),and doing my research at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, supervised by [Prof. Yunduan Cui](https://cuiyunduan.vercel.app/).
 
-Before this, I received Bachelor of Network Engineering from Anhui University in 2021. And from 2019 to 2020, I went to the National Conservatory of Arts and Crafts (CNAM) in France for an exchange program and participated in project research under the guidance of professors in France.
+Before this, I received Bachelor of Network Engineering from [Anhui University] (https://en.ahu.edu.cn/) in 2021. And from 2019 to 2020, I went to the [Conservatoire national des arts et métiers] (https://www.cnam.eu/) (Cnam) in France for an exchange program and participated in project research under the guidance of professors in France.
 
-My research interests lie in the reinforcement learning and robot learning, especially in complex systems,like quadrupedal robot, HVAC system, chemical production control etc.
+My research interests lie in the reinforcement learning and robot learning, especially in complex systems, like quadrupedal robot, HVAC system, chemical production control etc.
 
 <span class='anchor' id='edu'></span>
 # 📖 Educations

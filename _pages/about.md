@@ -28,7 +28,7 @@ My research interests lie in the reinforcement learning and robot learning, espe
 
 <span class='anchor' id='exp'></span>
 # 💼 Experiences
-- *2019.11 - 2020.07*, exchange in National Conservatory of Arts and Crafts (CNAM), France
+- *2019.11 - 2020.07*, exchange in Conservatoire national des arts et métiers (Cnam), France
 
 <span class='anchor' id='news'></span>
 # 🔥 News

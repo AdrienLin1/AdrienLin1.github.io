@@ -57,5 +57,7 @@ Relative Entropy Regularization**
 <span class='anchor' id='ski'></span>
 # 💪 Skills
 💻Programming skill: Python, C++;
+
 🔨Machine learning skill: Pytorch, Tensorflow, Paddlepaddle
+
 ✒️ Academic writing: Latex

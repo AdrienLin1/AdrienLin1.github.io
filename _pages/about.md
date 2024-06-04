@@ -40,7 +40,7 @@ My research interests lie in the reinforcement learning and robot learning, espe
 \* Co-first author, ✉️ Corresponding author.
 
 ### Working Papers
-- **Sample Efficiency Joint Control: Quadrupedal Robot Learns to Walk Within 3000 Steps**  
+- **Efficient Multi-Agent Joint Control of Quadrupedal Robot with State-Action Embedding**  
 **<u> Chenyang Miao </u>**, Yunduan Cui✉️, Huiyun Li, Xinyu Wu.
 ***<font color = "#224B8D"> Submitted to IEEE Robotics and Automation Letters(IEEE RA-L)</font>***
 

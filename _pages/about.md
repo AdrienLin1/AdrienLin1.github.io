@@ -41,7 +41,7 @@ My research interests lie in the reinforcement learning and robot learning, espe
 
 ### Working Papers
 - **Efficient Multi-Agent Joint Control of Quadrupedal Robot with State-Action Embedding**  
-**<u> Chenyang Miao </u>**, Yunduan Cui✉️, Huiyun Li, Xinyu Wu.
+**<u> Chenyang Miao </u>**, Yingzhuo Jiang, Yunduan Cui✉️, Xinyu Wu.
 ***<font color = "#224B8D"> Submitted to IEEE Robotics and Automation Letters(IEEE RA-L)</font>***
 
 - **Efficient Multi-Agent Reinforcement Learning HVAC Power Consumption Optimization**  

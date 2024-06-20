@@ -52,7 +52,7 @@ My research interests lie in the reinforcement learning and robot learning, espe
 - **Effective Multi-Agent Deep Reinforcement Learning Control with
 Relative Entropy Regularization**  
 **<u> Chenyang Miao </u>**, Yunduan Cui✉️, Huiyun Li, Xinyu Wu.  
-***<font color = "#224B8D">IEEE Transactions on Automation Science and Engineering (IEEE T-ASE),2024</font>*** \| [[Paper](https://ieeexplore.ieee.org/abstract/document/10530635/)]
+***<font color = "#224B8D">IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1),2024</font>*** \| [[Paper](https://ieeexplore.ieee.org/abstract/document/10530635/)]
 
 <span class='anchor' id='ski'></span>
 # 💪 Skills

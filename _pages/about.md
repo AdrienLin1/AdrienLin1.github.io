@@ -64,7 +64,7 @@ Relative Entropy Regularization**
 ***<font color = "#224B8D"> Energy Reports (JCR Q2)</font>***
 
 - **Improving Stability and Efficiency of Reinforcement Learning using Reward Functions based on Lyapunov Neural Networks**  
-Mingyu Sun, **</u> Chenyang Miao\* </u>**, Yidong Chen, Tianfu Sun and Yunduan Cui✉️.
+Mingyu Sun, **<u> Chenyang Miao\* </u>**, Yidong Chen, Tianfu Sun and Yunduan Cui✉️.
 ***<font color = "#224B8D"> IEEE RCAR 2025 (Best paper award)</font>***
 
 
